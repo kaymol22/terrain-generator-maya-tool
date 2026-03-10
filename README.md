@@ -10,3 +10,16 @@ pip install Pillow noise scipy
 1. Clone this repository.
 2. Place the Python files and dependency folders inside the scripts folder in your Maya project.
 3. In Maya, either create a custom shelf button for the tool or open 'main.py' in the script editor and run it to open the tool GUI. 
+
+# Example Images
+#### Texture input example
+![texture test 1](images/heightmap-1.png)
+#### Texture and Result comparison (inverted)
+![texture test 2](images/heightmap-2.png)
+***
+#### Random Seed Examples
+![seed example 1](images/example-1.png)
+***
+![seed example 2](images/example-2.png)
+***
+![seed example 3](images/example-3.png)
